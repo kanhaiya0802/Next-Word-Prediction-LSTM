@@ -27,13 +27,13 @@ This project uses an LSTM-based neural network to learn word sequences and predi
 ## Project Structure
 
 Next-Word-Prediction-LSTM/
-├── app.py # Streamlit application
-├── experiments.ipynb # Model training and experiments
-├── description.ipynb # Project explanation and notes
-├── next_word_lstm.keras # Trained LSTM model
-├── tokenizer.pickle # Saved tokenizer
-├── requirements.txt # Project dependencies
-└── README.md
+  ├── app.py # Streamlit application
+  ├── experiments.ipynb # Model training and experiments
+  ├── description.ipynb # Project explanation and notes
+  ├── next_word_lstm.keras # Trained LSTM model
+  ├── tokenizer.pickle # Saved tokenizer
+  ├── requirements.txt # Project dependencies
+  └── README.md
 
 
 ---
